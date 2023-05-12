@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  position: absolute;
+  width: 550px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.gray {
+  color: #918E9B;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.airbnb-logo {
+  position: absolute;
+  width: 82.02px;
+  height: 25.35px;
+  left: 30px;
+  top: 22px;
+}
+
+.photo-grid {
+  position: absolute;
+  width: 395.91px;
+  height: 232px;
+  left: 77px;
+  top: 96px;
+}
+
+.title {
+  position: absolute;
+  width: 347px;
+  height: 40px;
+  left: 36px;
+  top: 360px;
+
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+
+  color: #000000;
+}
+
+.info {
+  position: absolute;
+  width: 320px;
+  height: 56px;
+  left: 36px;
+  top: 416px;
+
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 110%;
+
+  color: #222222;
+}
+
+.card--stats {
+  position: absolute;
+  width: 176px;
+  height: 58px;
+  left: 36px;
+  top: 765px;
+}
+
+.card--image {
+  position: absolute;
+  width: 176px;
+  height: 235px;
+  left: 37px;
+  top: 521px;
+  border-radius: 9px;
+}
+
+.card--star {
+  width: 14px;
+  height: 14px;
+  left: 36px;
+  top: 765px;
+}
